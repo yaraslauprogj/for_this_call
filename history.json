@@ -1,0 +1,335 @@
+[
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.013052,
+        "mean_time": 0.017077533141666667,
+        "timestamp": "2025-10-19T22:58:09.194"
+    },
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.0157405,
+        "mean_time": 0.021798149312499997,
+        "timestamp": "2025-10-19T23:03:23.300"
+    },
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.0142075,
+        "mean_time": 0.019401975045833336,
+        "timestamp": "2025-10-19T23:56:58.335"
+    },
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.007772171428571428,
+        "mean_time": 0.010296880742698411,
+        "timestamp": "2025-10-20T00:25:58.594"
+    },
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.007928785714285715,
+        "mean_time": 0.010390478536875,
+        "timestamp": "2025-10-20T00:35:00.102"
+    },
+    {
+        "allocs": 256,
+        "memory_mb": 0.013671875,
+        "commit": "80f8dc73",
+        "samples": 40000,
+        "median_time": 0.007817714285714285,
+        "mean_time": 0.010196025658303572,
+        "timestamp": "2025-10-20T00:36:46.385"
+    },
+    {
+        "allocs": 258,
+        "memory_mb": 0.014234375,
+        "commit": "a4f2c91b",
+        "samples": 40000,
+        "median_time": 0.008234,
+        "mean_time": 0.010876,
+        "timestamp": "2025-10-19T14:23:45.123"
+    },
+    {
+        "allocs": 257,
+        "memory_mb": 0.013984375,
+        "commit": "a4f2c91b",
+        "samples": 40000,
+        "median_time": 0.008567,
+        "mean_time": 0.011234,
+        "timestamp": "2025-10-19T10:15:30.456"
+    },
+    {
+        "allocs": 260,
+        "memory_mb": 0.014671875,
+        "commit": "b5e3d82a",
+        "samples": 40000,
+        "median_time": 0.009123,
+        "mean_time": 0.012345,
+        "timestamp": "2025-10-18T22:45:12.789"
+    },
+    {
+        "allocs": 259,
+        "memory_mb": 0.014453125,
+        "commit": "b5e3d82a",
+        "samples": 40000,
+        "median_time": 0.008956,
+        "mean_time": 0.011987,
+        "timestamp": "2025-10-18T16:30:45.234"
+    },
+    {
+        "allocs": 263,
+        "memory_mb": 0.015234375,
+        "commit": "c6f4e93c",
+        "samples": 40000,
+        "median_time": 0.009456,
+        "mean_time": 0.012678,
+        "timestamp": "2025-10-17T09:12:34.567"
+    },
+    {
+        "allocs": 265,
+        "memory_mb": 0.015671875,
+        "commit": "d7g5fa4d",
+        "samples": 40000,
+        "median_time": 0.009876,
+        "mean_time": 0.013234,
+        "timestamp": "2025-10-16T14:56:23.890"
+    },
+    {
+        "allocs": 268,
+        "memory_mb": 0.016234375,
+        "commit": "e8h6gb5e",
+        "samples": 40000,
+        "median_time": 0.010234,
+        "mean_time": 0.013567,
+        "timestamp": "2025-10-15T11:23:45.123"
+    },
+    {
+        "allocs": 270,
+        "memory_mb": 0.016671875,
+        "commit": "f9i7hc6f",
+        "samples": 40000,
+        "median_time": 0.010567,
+        "mean_time": 0.013987,
+        "timestamp": "2025-10-14T08:45:12.456"
+    },
+    {
+        "allocs": 272,
+        "memory_mb": 0.017234375,
+        "commit": "g0j8id7g",
+        "samples": 40000,
+        "median_time": 0.010876,
+        "mean_time": 0.014234,
+        "timestamp": "2025-10-13T20:30:56.789"
+    },
+    {
+        "allocs": 280,
+        "memory_mb": 0.018671875,
+        "commit": "h1k9je8h",
+        "samples": 38000,
+        "median_time": 0.011234,
+        "mean_time": 0.014567,
+        "timestamp": "2025-10-10T15:23:45.012"
+    },
+    {
+        "allocs": 285,
+        "memory_mb": 0.019234375,
+        "commit": "i2l0kf9i",
+        "samples": 38000,
+        "median_time": 0.011567,
+        "mean_time": 0.014987,
+        "timestamp": "2025-10-07T12:45:23.345"
+    },
+    {
+        "allocs": 290,
+        "memory_mb": 0.019671875,
+        "commit": "j3m1lg0j",
+        "samples": 38000,
+        "median_time": 0.011876,
+        "mean_time": 0.015234,
+        "timestamp": "2025-10-03T09:12:34.678"
+    },
+    {
+        "allocs": 295,
+        "memory_mb": 0.020234375,
+        "commit": "k4n2mh1k",
+        "samples": 37000,
+        "median_time": 0.012234,
+        "mean_time": 0.015567,
+        "timestamp": "2025-09-28T16:34:56.901"
+    },
+    {
+        "allocs": 300,
+        "memory_mb": 0.020671875,
+        "commit": "l5o3ni2l",
+        "samples": 37000,
+        "median_time": 0.012567,
+        "mean_time": 0.015987,
+        "timestamp": "2025-09-20T14:23:45.234"
+    },
+    {
+        "allocs": 310,
+        "memory_mb": 0.021234375,
+        "commit": "m6p4oj3m",
+        "samples": 36000,
+        "median_time": 0.012876,
+        "mean_time": 0.016234,
+        "timestamp": "2025-09-15T11:45:12.567"
+    },
+    {
+        "allocs": 320,
+        "memory_mb": 0.022671875,
+        "commit": "n7q5pk4n",
+        "samples": 36000,
+        "median_time": 0.013234,
+        "mean_time": 0.016567,
+        "timestamp": "2025-09-10T08:30:45.890"
+    },
+    {
+        "allocs": 330,
+        "memory_mb": 0.023234375,
+        "commit": "o8r6ql5o",
+        "samples": 35000,
+        "median_time": 0.013567,
+        "mean_time": 0.016987,
+        "timestamp": "2025-09-01T20:12:34.123"
+    },
+    {
+        "allocs": 350,
+        "memory_mb": 0.024671875,
+        "commit": "p9s7rm6p",
+        "samples": 35000,
+        "median_time": 0.014234,
+        "mean_time": 0.017567,
+        "timestamp": "2025-08-25T17:45:23.456"
+    },
+    {
+        "allocs": 380,
+        "memory_mb": 0.026234375,
+        "commit": "q0t8sn7q",
+        "samples": 34000,
+        "median_time": 0.014876,
+        "mean_time": 0.018234,
+        "timestamp": "2025-08-15T14:23:56.789"
+    },
+    {
+        "allocs": 400,
+        "memory_mb": 0.027671875,
+        "commit": "r1u9to8r",
+        "samples": 34000,
+        "median_time": 0.015234,
+        "mean_time": 0.018567,
+        "timestamp": "2025-08-01T11:30:12.012"
+    },
+    {
+        "allocs": 420,
+        "memory_mb": 0.029234375,
+        "commit": "s2v0up9s",
+        "samples": 33000,
+        "median_time": 0.015876,
+        "mean_time": 0.019234,
+        "timestamp": "2025-07-20T09:15:45.345"
+    },
+    {
+        "allocs": 450,
+        "memory_mb": 0.031671875,
+        "commit": "t3w1vq0t",
+        "samples": 33000,
+        "median_time": 0.016567,
+        "mean_time": 0.019876,
+        "timestamp": "2025-07-01T16:45:34.678"
+    },
+    {
+        "allocs": 480,
+        "memory_mb": 0.033234375,
+        "commit": "u4x2wr1u",
+        "samples": 32000,
+        "median_time": 0.017234,
+        "mean_time": 0.020567,
+        "timestamp": "2025-06-15T13:23:56.901"
+    },
+    {
+        "allocs": 500,
+        "memory_mb": 0.034671875,
+        "commit": "v5y3xs2v",
+        "samples": 32000,
+        "median_time": 0.017876,
+        "mean_time": 0.021234,
+        "timestamp": "2025-05-20T10:45:23.234"
+    },
+    {
+        "allocs": 520,
+        "memory_mb": 0.036234375,
+        "commit": "w6z4yt3w",
+        "samples": 31000,
+        "median_time": 0.018567,
+        "mean_time": 0.021987,
+        "timestamp": "2025-04-10T08:12:45.567"
+    },
+    {
+        "allocs": 550,
+        "memory_mb": 0.038671875,
+        "commit": "x7a5zu4x",
+        "samples": 31000,
+        "median_time": 0.019234,
+        "mean_time": 0.022567,
+        "timestamp": "2025-03-01T19:34:12.890"
+    },
+    {
+        "allocs": 580,
+        "memory_mb": 0.041234375,
+        "commit": "y8b6av5y",
+        "samples": 30000,
+        "median_time": 0.019876,
+        "mean_time": 0.023234,
+        "timestamp": "2025-02-14T16:23:34.123"
+    },
+    {
+        "allocs": 600,
+        "memory_mb": 0.042671875,
+        "commit": "z9c7bw6z",
+        "samples": 30000,
+        "median_time": 0.020567,
+        "mean_time": 0.023987,
+        "timestamp": "2025-01-20T13:45:56.456"
+    },
+    {
+        "allocs": 650,
+        "memory_mb": 0.045234375,
+        "commit": "aa1d8cx7",
+        "samples": 29000,
+        "median_time": 0.021876,
+        "mean_time": 0.025234,
+        "timestamp": "2024-12-15T11:12:23.789"
+    },
+    {
+        "allocs": 700,
+        "memory_mb": 0.048671875,
+        "commit": "bb2e9dy8",
+        "samples": 29000,
+        "median_time": 0.023234,
+        "mean_time": 0.026567,
+        "timestamp": "2024-11-20T09:34:45.012"
+    },
+    {
+        "allocs": 750,
+        "memory_mb": 0.052234375,
+        "commit": "cc3f0ez9",
+        "samples": 28000,
+        "median_time": 0.024567,
+        "mean_time": 0.027987,
+        "timestamp": "2024-10-20T18:23:12.345"
+    }
+]
